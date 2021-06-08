@@ -5,7 +5,7 @@ The challenge consists of creating a URL shortener.
 Specifically, this is a web server that serves two routes:
 
 * `/shorten`: Submit a url to shorten.
-* `/:url`: Follow a shortened url.
+* `/${url}`: Follow a shortened url.
 
 ## Requirements
 
